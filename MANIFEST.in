@@ -1,0 +1,4 @@
+include CRoaring/LICENSE
+include CRoaring/AUTHORS
+graft CRoaring/cpp
+graft CRoaring/include

@@ -1,0 +1,7 @@
+*.egg-info
+*.so
+*.swp
+build/
+dist/
+roroaring64.cpp
+venv/
